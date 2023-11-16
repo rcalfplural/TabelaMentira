@@ -1,2 +1,2 @@
 # TabelaMentira
-Ta doendo que sufoco meu amor ta com raiva de mim
+Tentando simular o funcionamento de uma tabela de paginas de memória.
